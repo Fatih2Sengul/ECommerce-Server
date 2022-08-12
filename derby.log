@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Aug 04 09:26:26 TRT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0182-6788-aa71-00000ba4d808 
+on database directory memory:C:\Users\glb90092779\IdeaProjects\E-Commerce\local with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/glb90092779/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_342-b07
+user.dir=C:\Users\glb90092779\IdeaProjects\E-Commerce
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Aug 04 09:26:29 TRT 2022:
+Shutting down instance a816c00e-0182-6788-aa71-00000ba4d808 on database directory memory:C:\Users\glb90092779\IdeaProjects\E-Commerce\local with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
